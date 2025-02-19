@@ -1,0 +1,26 @@
+{
+  "name": "guessing-game",
+  "version": "1.0.0",
+  "description": "General requirements 1. Generate a random number 2. User input 3. Feedback 4. Reset 5. Attempt counter 6. Input validation 7. Stylization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalliabirytskaya/guessing-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalliabirytskaya/guessing-game/issues"
+  },
+  "homepage": "https://github.com/natalliabirytskaya/guessing-game#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1",
+    "globals": "^15.15.0",
+    "prettier": "^3.5.1"
+  }
+}
